@@ -50,7 +50,7 @@ Looking at absolute patient numbers for Type 1, the number of patients waiting m
 
 ## Files
 
-- `NHS.pbix` — Power BI dashboard file
+- [`NHS.pbix`](NNHS.pbix) — Power BI dashboard file (download and open in Power BI Desktop to view)
 
 ## Possible Extensions
 
