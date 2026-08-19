@@ -43,6 +43,11 @@ Looking at absolute patient numbers for Type 1, the number of patients waiting m
 - Broke down performance rates by attendance type (Type 1/2/3) and booking status (walk-in vs. booked appointment) for more granular analysis
 - Built a proper date dimension table using DAX (`CALENDAR()`) and linked it via a many-to-one relationship for time intelligence support
 
+## Screenshots
+
+![Rate of Treatment](images/rate_of_treatment_within4hours.png)
+![Over 4hour Type1](images/over4hourType1.png)
+
 ## Files
 
 - `NHS_AE_Dashboard.pbix` — Power BI dashboard file
