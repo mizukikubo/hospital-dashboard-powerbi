@@ -45,7 +45,7 @@ Looking at absolute patient numbers for Type 1, the number of patients waiting m
 
 ## Screenshots
 
-![Rate of Treatment](images/rate_of_treatment_within4hours.png)
+![Rate of Treatment](rate_of_treatment_within4hours.png)
 ![Over 4hour Type1](over4hourType1.png)
 
 ## Files
